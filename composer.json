@@ -1,22 +1,47 @@
 {
-    "name": "weeynsoft/catalog-product",
-    "description": "aa",
-    "type": "library",
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Weeynsoft\\CatalogProduct\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "ss"
-        }
-    ],
-    "minimum-stability": "stable",
-    "prefer-stable": false,
-    "require": {
-        "php": "^8.0",
-        "konekt/concord": "^1.5"
+  "name": "weeynsoft/catalog-product",
+  "description": "Weeyn Product Module",
+  "license": "MIT",
+  "keywords": [
+    "weeyn",
+    "catalog",
+    "product"
+  ],
+  "authors": [
+    {
+      "name": "Fahrettin Aksoy",
+      "email": "fahrettin@weeyn.com",
+      "homepage": "https://weeyn.com",
+      "role": "Developer"
     }
+  ],
+  "homepage": "https://weeyn.com",
+  "support": {
+    "email": "dev@weeyn.com",
+    "issues": "https://github.com/WeeynSoft/catalog-product/issues",
+    "source": "https://github.com/WeeynSoft/catalog-product",
+    "wiki": "https://github.com/WeeynSoft/catalog-product/wiki",
+    "docs": "https://docs.weeyn.com/packets/catalog-product",
+	"forum": "https://forum.weeyn.com",
+	"chat": "https://slack.weeyn.com"
+  },
+  "type": "library",
+  "require": {
+    "php": "^8.0"
+  },
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "WeeynSoft\\CatalogProduct\\": "src/"
+    }
+  },
+  "autoload-dev": {},
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "sort-packages": true,
+  "scripts": {},
+  "extra": {},
+  "config": {},
+  "replace": {},
+  "suggest": {}
 }
