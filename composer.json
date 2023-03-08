@@ -29,6 +29,8 @@
         "psr-4": { "WeeynSoft\\Catalog\\Product\\": "src/" }
     },
 	"autoload-dev": {},
+	"minimum-stability": "stable",
+	"prefer-stable": false,
 	"scripts": {},
 	"extra": {},
 	"config": {},
