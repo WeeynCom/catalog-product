@@ -1,32 +1,12 @@
 {
-	"name": "weeynsoft/catalog-product",
-	"description": "Weeyn Product Module",
-	"license": "MIT",
-	"keywords": ["weeyn", "catalog", "product"],
-    "authors": [
-        {
-            "name": "Fahrettin Aksoy",
-            "email": "fahrettin@weeyn.com",
-			"homepage": "https://weeyn.com",
-			"role": "Developer"
-        }
-	],
-	"homepage": "https://weeyn.com",
-    "support": {
-        "email": "dev@weeyn.com",
-        "issues": "https://github.com/WeeynSoft/catalog-product/issues",
-        "source": "https://github.com/WeeynSoft/catalog-product",
-		"wiki": "https://github.com/WeeynSoft/catalog-product/wiki",
-        "docs": "https://docs.weeyn.com/packets/catalog-product"
-    },
+    "name": "weeynsoft/catalog-product",
+    "description": "My Module Rulez",
     "type": "library",
     "require": {
-		"php": "^8.0",
-		"konekt/concord": "^1.5"
-	},
+        "php": "^7.2",
+        "konekt/concord": "^1.5"
+    },
     "autoload": {
-        "psr-4": {
-			"WeeynSoft\\Catalog\\Product\\": "src/"
-		}
+        "psr-4": { "WeeynSoft\\Catalog\\Product\\": "src/" }
     }
 }
