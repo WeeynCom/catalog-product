@@ -26,11 +26,9 @@
     },
     "require-dev": {},
     "autoload": {
-        "psr-4": { "WeeynSoft\\CatalogProduct\\": "src/" }
+        "psr-4": { "WeeynSoft\\Catalog\Product\\": "src/" }
     },
 	"autoload-dev": {},
-	"minimum-stability": "dev",
-	"prefer-stable": true,
 	"scripts": {},
 	"extra": {},
 	"config": {},
