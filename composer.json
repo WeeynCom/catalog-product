@@ -13,7 +13,7 @@
             "name": "ss"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": false,
     "require": {
         "php": "^8.0",
