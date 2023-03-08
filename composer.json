@@ -16,21 +16,17 @@
         "email": "dev@weeyn.com",
         "issues": "https://github.com/WeeynSoft/catalog-product/issues",
         "source": "https://github.com/WeeynSoft/catalog-product",
-		"wiki":"https://github.com/WeeynSoft/catalog-product/wiki",
+		"wiki": "https://github.com/WeeynSoft/catalog-product/wiki",
         "docs": "https://docs.weeyn.com/packets/catalog-product"
     },
     "type": "library",
-    "require": {},
-    "require-dev": {},
+    "require": {
+		"php": "^8.0",
+		"konekt/concord": "^1.5"
+	},
     "autoload": {
         "psr-4": {
 			"WeeynSoft\\Catalog\\Product\\": "src/"
 		}
-    },
-	"autoload-dev": {},
-	"scripts": {},
-	"extra": {},
-	"config": {},
-	"replace": {},
-	"suggest": {}
+    }
 }
