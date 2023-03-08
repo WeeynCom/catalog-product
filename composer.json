@@ -28,6 +28,8 @@
     "autoload": {
         "psr-4": { "WeeynSoft\\Catalog\\Product\\": "src/" }
     },
+	"minimum-stability": "dev",
+	"prefer-stable": false,
 	"autoload-dev": {},
 	"scripts": {},
 	"extra": {},
