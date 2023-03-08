@@ -41,7 +41,11 @@
   "sort-packages": true,
   "scripts": {},
   "extra": {},
-  "config": {},
   "replace": {},
-  "suggest": {}
+  "suggest": {},
+  "config": {
+    "preferred-install": "stable",
+    "sort-packages": true,
+    "optimize-autoloader": true
+  }
 }
