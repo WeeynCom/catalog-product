@@ -22,11 +22,6 @@ This is the standalone product module of the [Weeyn](https://weeyn.com).
 
 See the [Weeyn Product Module Documentation](https://weeyn.com/docs/master/catalog-product) for more details. 
 
-## Security Issues
-
-If you discover a security vulnerability within Weeyn, please follow our
-[disclosure procedure][20].
-
 ## About Us
 
-Weeyn development is led by the [Weeyn Core Team][22] and supported by [Weeyn contributors][19].
+Weeyn development is led by the core team.
