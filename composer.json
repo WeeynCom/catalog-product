@@ -30,7 +30,7 @@
   "require-dev": {},
   "autoload": {
     "psr-4": {
-      "WeeynSoft\\Catalog\\Product\\": "src/"
+      "WeeynSoft\\CatalogProduct\\": "src/"
     }
   },
   "autoload-dev": {},
