@@ -1,6 +1,6 @@
 <?php
 
-namespace Vendor\MyModule\Providers;
+namespace WeeynSoft\CatalogProduct\Providers;
 
 use Konekt\Concord\BaseModuleServiceProvider;
 

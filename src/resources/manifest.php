@@ -1,6 +1,6 @@
 <?php
 
 return [
-	'name' => 'Weeyn Product Module',
+	'name' => 'Weeyn Catalog Product Module',
 	'version' => '1.0.0'
 ];

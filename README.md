@@ -1,4 +1,4 @@
-# Weeyn Product Module
+# Weeyn Catalog Product Module
 Weeyn catalog product module
 
 ![Packagist PHP Version](https://img.shields.io/packagist/dependency-v/weeynsoft/catalog-product/php)
@@ -7,7 +7,7 @@ Weeyn catalog product module
 ![GitHub](https://img.shields.io/github/license/weeynsoft/catalog-product)
 
 
-This is the standalone product module of the [Weeyn](https://weeyn.com).
+This is the standalone catalog product module of the [Weeyn](https://weeyn.com).
 
 ## Installation
 
