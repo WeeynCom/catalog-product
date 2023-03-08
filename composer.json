@@ -14,7 +14,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "prefer-stable": true,
+    "prefer-stable": false,
     "require": {
         "php": "^8.0",
         "konekt/concord": "^1.5"
