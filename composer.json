@@ -1,5 +1,5 @@
 {
-	"name": "weeyncom/catalog-product",
+	"name": "weeynsoft/catalog-product",
 	"description": "Weeyn Product Module",
 	"license": "MIT",
 	"keywords": ["weeyn", "catalog", "product"],
@@ -14,9 +14,9 @@
 	"homepage": "https://weeyn.com",
     "support": {
         "email": "dev@weeyn.com",
-        "issues": "https://github.com/WeeynCom/catalog-product/issues",
-        "source": "https://github.com/WeeynCom/catalog-product",
-		"wiki":"https://github.com/WeeynCom/catalog-product/wiki",
+        "issues": "https://github.com/WeeynSoft/catalog-product/issues",
+        "source": "https://github.com/WeeynSoft/catalog-product",
+		"wiki":"https://github.com/WeeynSoft/catalog-product/wiki",
         "docs": "https://docs.weeyn.com/packets/catalog-product"
     },
     "type": "library",
@@ -26,7 +26,7 @@
     },
     "require-dev": {},
     "autoload": {
-        "psr-4": { "WeeynCom\\CatalogProduct\\": "src/" }
+        "psr-4": { "WeeynSoft\\CatalogProduct\\": "src/" }
     },
 	"autoload-dev": {},
 	"minimum-stability": "dev",
