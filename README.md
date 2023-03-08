@@ -10,7 +10,6 @@ Weeyn catalog product module
 This is the standalone product module of the [Weeyn](https://weeyn.com).
 
 ## Installation
----------------
 
 (As Standalone Component)
 
@@ -20,17 +19,14 @@ This is the standalone product module of the [Weeyn](https://weeyn.com).
 4. `php artisan migrate`
 
 ## Usage
----------------
 
 See the [Weeyn Product Module Documentation](https://weeyn.com/docs/master/catalog-product) for more details. 
 
 ## Security Issues
----------------
 
 If you discover a security vulnerability within Weeyn, please follow our
 [disclosure procedure][20].
 
 ## About Us
---------
 
 Weeyn development is led by the [Weeyn Core Team][22] and supported by [Weeyn contributors][19].
