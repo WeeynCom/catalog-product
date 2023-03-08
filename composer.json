@@ -34,8 +34,6 @@
     }
   },
   "autoload-dev": {},
-  "minimum-stability": "dev",
-  "prefer-stable": true,
   "scripts": {},
   "extra": {},
   "config": {},
