@@ -1,38 +1,44 @@
 {
-	"name": "weeynsoft/catalog-product",
-	"description": "Weeyn Product Module",
-	"license": "MIT",
-	"keywords": ["weeyn", "catalog", "product"],
-    "authors": [
-        {
-            "name": "Fahrettin Aksoy",
-            "email": "fahrettin@weeyn.com",
-			"homepage": "https://weeyn.com",
-			"role": "Developer"
-        }
-	],
-	"homepage": "https://weeyn.com",
-    "support": {
-        "email": "dev@weeyn.com",
-        "issues": "https://github.com/WeeynSoft/catalog-product/issues",
-        "source": "https://github.com/WeeynSoft/catalog-product",
-		"wiki":"https://github.com/WeeynSoft/catalog-product/wiki",
-        "docs": "https://docs.weeyn.com/packets/catalog-product"
-    },
-    "type": "library",
-    "require": {
-        "php": "^8.0"
-    },
-    "require-dev": {},
-    "autoload": {
-        "psr-4": { "WeeynSoft\\Catalog\\Product\\": "src/" }
-    },
-	"autoload-dev": {},
-	"minimum-stability": "dev",
-	"prefer-stable": true,
-	"scripts": {},
-	"extra": {},
-	"config": {},
-	"replace": {},
-	"suggest": {}
+  "name": "weeynsoft/catalog-product",
+  "description": "Weeyn Product Module",
+  "license": "MIT",
+  "keywords": [
+    "weeyn",
+    "catalog",
+    "product"
+  ],
+  "authors": [
+    {
+      "name": "Fahrettin Aksoy",
+      "email": "fahrettin@weeyn.com",
+      "homepage": "https://weeyn.com",
+      "role": "Developer"
+    }
+  ],
+  "homepage": "https://weeyn.com",
+  "support": {
+    "email": "dev@weeyn.com",
+    "issues": "https://github.com/WeeynSoft/catalog-product/issues",
+    "source": "https://github.com/WeeynSoft/catalog-product",
+    "wiki": "https://github.com/WeeynSoft/catalog-product/wiki",
+    "docs": "https://docs.weeyn.com/packets/catalog-product"
+  },
+  "type": "library",
+  "require": {
+    "php": "^8.0"
+  },
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "WeeynSoft\\Catalog\\Product\\": "src/"
+    }
+  },
+  "autoload-dev": {},
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "scripts": {},
+  "extra": {},
+  "config": {},
+  "replace": {},
+  "suggest": {}
 }
