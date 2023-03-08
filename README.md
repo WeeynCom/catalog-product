@@ -2,7 +2,7 @@
 Weeyn Product Module
 
 ![Packagist PHP Version](https://img.shields.io/packagist/dependency-v/weeynsoft/catalog-product/php)
-![Packagist Version](https://img.shields.io/packagist/v/weeynsoft/catalog-product)(https://packagist.org/packages/weeynsoft/catalog-product)
+![Packagist Version](https://img.shields.io/packagist/v/weeynsoft/catalog-product)
 ![Packagist Downloads](https://img.shields.io/packagist/dt/weeynsoft/catalog-product?label=download)
 ![GitHub](https://img.shields.io/github/license/weeynsoft/catalog-product)(LICENSE.md)
 
